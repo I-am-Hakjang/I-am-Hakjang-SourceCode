@@ -1,5 +1,6 @@
 <img width="848" height="1236" alt="1781609661185" src="https://github.com/user-attachments/assets/7f52890d-106c-4398-b7c0-d7ec0d717147" />
 ﻿
+ 
 # I-am-Hakjang Unity 소스 개요 (README)
 
 Unity 폴더 내 C# 소스 코드의 역할을 파일 단위로 간략히 정리했습니다.
