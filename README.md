@@ -1,4 +1,4 @@
-﻿# I-am-Hakjang Unity 소스 개요 (readmo)
+﻿# I-am-Hakjang Unity 소스 개요 (README)
 
 Unity 폴더 내 C# 소스 코드의 역할을 파일 단위로 간략히 정리했습니다.
 
